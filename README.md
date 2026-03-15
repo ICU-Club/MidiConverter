@@ -1,0 +1,2 @@
+# MidiConverter
+一个纯C#实现的MIDI解析与转换工具插件，支持MIDI与MusicPlayer音高文件双向转换
